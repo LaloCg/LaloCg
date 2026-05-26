@@ -9,10 +9,6 @@ I am an engineer in training who loves solving complex problems in the field and
 * **Cybersecurity** (Network analysis, Malware analysis habits)
 
 ## 🔭 What am I currently working on?
-* 🌱 **Plant Wearables:** Developing a Heat Ratio Method (HRM) sensor to measure sap flow in plants using resistance heaters and precision temperature sensors.
-* 🌡️ **Digital Psychrometer:** Building a portable device with ESP32, RTC, and SD logging to calculate wet/dry bulb temperatures in real-time.
-* 💧 **Smart Water Management:** Designing a pumping sump unit for the CERONA irrigation project.
-* ☕ **Coffee Maturity Classifier:** A Computer Vision project to classify coffee beans by color.
 * 🛡️ **Cybersecurity Upskilling:** consistently learning via TryHackMe and building networking knowledge (OSI Model, DHCP).
 
 ## 🛠️ Tools & Tech Stack
